@@ -1,0 +1,6 @@
+[submodule "Final-Backend"]
+	path = Final-Backend
+	url = https://github.com/Tianren-Zhang/Final-Backend.git
+[submodule "Final-Frontend"]
+	path = Final-Frontend
+	url = https://github.com/Tianren-Zhang/Final-Frontend.git
